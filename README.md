@@ -1,13 +1,13 @@
--# Data Analyst/Data Scientist 
+# Data Analyst/Data Scientist 
 # Education
--Bachelor Of Engineering (Mecahniacl Engineering) From RTU 2012-2016
-- HSC form BSEB  ( Math , Science ) 2010
+ -Bachelor Of Engineering (Mecahniacl Engineering) From RTU 2012-2016
+ - HSC form BSEB  ( Math , Science ) 2010
 # Certifications 
 Data Sceince And AI  from IITM Pravartak Technology Foundation in Collaboration with Intellipaat
 
 # Work Experience 
- Data Analyst @ Crescent valves International Pvt ltd | Duration: Oct’20– March’23
-Designed and Implemented ML Predictive Model to Optimize sales strategies and increase revenue across various region 
+ - Data Analyst @ Crescent valves International Pvt ltd | Duration: Oct’20– March’23
+ - Designed and Implemented ML Predictive Model to Optimize sales strategies and increase revenue across various region 
 # Role and Responsibilities
 • Conducted EDA to derive insights and identify trends using graphical techniques.
 • Preprocessed data, utilizing Elastic net to extract key features and incorporating geodemographics and 
