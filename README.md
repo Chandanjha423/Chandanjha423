@@ -1,7 +1,7 @@
 -# Data Analyst/Data Scientist 
 # Education
-Bachelor Of Engineering (Mecahniacl Engineering) From RTU 2012-2016
-HSC form BSEB  ( Math , Science ) 2010
+-Bachelor Of Engineering (Mecahniacl Engineering) From RTU 2012-2016
+- HSC form BSEB  ( Math , Science ) 2010
 # Certifications 
 Data Sceince And AI  from IITM Pravartak Technology Foundation in Collaboration with Intellipaat
 
