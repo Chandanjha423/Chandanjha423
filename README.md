@@ -19,8 +19,8 @@ degrading KPI.
 - Built and trained different models and Create bucket of models, Including Linear, ridge, lasso, Random Forest 
 etc. conducted hyperparameter tuning to optimize model performance, focusing on the best results.
 - Using MAPE as performance matrix, predicted Market, product, and region-specific demand 
- -- Technologies and Tools Used: 
-Python (Programming), SQL, Ms Excel, NumPy, Pandas, Matplotlib, Seaborn, Scikit Learn, Random Forest, Decision 
+-- Technologies and Tools Used: 
+ -Python (Programming), SQL, Ms Excel, NumPy, Pandas, Matplotlib, Seaborn, Scikit Learn, Random Forest, Decision 
 Tree, Logistic Regression
 
 # ‘POC’s PERFORMED ON PROJECT's
