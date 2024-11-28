@@ -6,7 +6,7 @@
 Data Sceince And AI  from IITM Pravartak Technology Foundation in Collaboration with Intellipaat
 
 # Work Experience 
---Data Analyst @ Crescent valves International Pvt ltd | Duration: Oct’20– March’23
+--Sales & Marketing Analyst @ Crescent valves International Pvt ltd | Duration: july’19– present
  - Designed and Implemented ML Predictive Model to Optimize sales strategies and increase revenue across various region 
 - Role and Responsibilities
 - Conducted EDA to derive insights and identify trends using graphical techniques.
